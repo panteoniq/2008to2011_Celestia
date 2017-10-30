@@ -10,7 +10,8 @@ Celestia의 스크립트 종류로는 cel과 celx가 있으며, cel은 short-tex
 이 Repository의 구성은 다음과 같습니다
 ```
 1. Translated Script
-: Celestia 애드온 사이트인 Celestia Motherlode(www.celestiamotherlode.net)에 등재되어 있는 스크립트들을 번역한 것입니다. 태양계 행성(퇴출된 명왕성 포함) 탐사 스크립트들과, Cassini Mission 관련 스크립트를 번역했습니다.
+: Celestia 애드온 사이트인 Celestia Motherlode(www.celestiamotherlode.net)에 등재되어 있는 스크립트들을 번역한 것입니다. 
+태양계 행성(퇴출된 명왕성 포함) 탐사 스크립트들과, Cassini Mission 관련 스크립트를 번역했습니다.
 
 2. Control Key of Celestia
 : Celestia를 처음 접하시는 분들을 위한 간단한 조작키 안내 스크립트입니다.
