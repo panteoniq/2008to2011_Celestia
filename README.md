@@ -22,7 +22,7 @@ Celestia의 스크립트 종류로는 cel과 celx가 있으며, cel은 short-tex
 목성 탐사를 목적으로 발사된 우주 탐사선 카시니 호에 대한 스크립트를 번역했습니다.<br>
 <img src="./images/TNP_1.jpg">
 <img src="./images/TNP_2.jpg">
-<img src="./imaes/OTHER_1.jpg">
+<img src="./images/OTHER_1.jpg">
 
 <br><br>
 ## Control Key of Celestia
